@@ -28,6 +28,9 @@ header{
 .bg-color-green {
     background-color:#1ABC9C ;
 }
+.color-green {
+    color:#1ABC9C ;
+}
 
 .bg-color-purple {
     background-color: #BA4B63;
@@ -47,6 +50,10 @@ header{
 
 .bg-color-coffe {
     background-color: #CCB2A3;
+}
+
+.bg-color-dark-blue {
+    background-color: #3A546D;
 }
 
 .photo{
